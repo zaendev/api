@@ -34,5 +34,3 @@ url :  [http://127.0.0.1:8000](http://127.0.0.1:8000/)  (menggunakan php artisan
 ## Lisensi
 
 API di bawah lisensi  [MIT](https://github.com/zainstar/api/blob/master/LICENSE)
-
-Markdown 1488  bytes 111  words 39  lines Ln 15, Col 0
