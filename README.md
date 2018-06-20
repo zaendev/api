@@ -4,9 +4,10 @@ Cara Install
 
 -   Buat Database
 -   Masuk ke project api
--   composer install
 -   Rename file .env.example => .env
 -   Setting database di .env
+-   php artisan key:generate
+-   composer install
 -   php artisan migrate
 -   php artisan passport:install
 -   php artisan serve
